@@ -1,0 +1,10 @@
+# Private settings and Python files
+.env
+.venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+
+# Frontend dependencies and build output
+node_modules/
+dist/
